@@ -13,7 +13,7 @@ export function Layout({ children }) {
                 {children}
             </main>
             <footer>
-                Lesdarus Software &copy; {new Date().getFullYear()}
+                Lesdarus &copy; {new Date().getFullYear()}
             </footer>
         </>
     )
