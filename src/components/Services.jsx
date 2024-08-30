@@ -31,7 +31,7 @@ export function Services() {
                     </h3>
                     <p>
                         Diseñamos y desarrollamos aplicaciones móviles de primera clase
-                        que destacan en las tiendas de aplicaciones y brindan soluciones prácticas para tus
+                        que brindan soluciones prácticas para tus
                         clientes y empleados.
                     </p>
                 </div>
@@ -46,24 +46,13 @@ export function Services() {
                     </p>
                 </div>
                 <div className="serviceCard">
-                    <VideogameAssetSharp className="serviceIcon" />
-                    <h3>
-                        Videojuegos
-                    </h3>
-                    <p>
-                        Sumérgete en el emocionante mundo de los videojuegos con nuestras creaciones
-                        innovadoras y envolventes que cautivan a los jugadores de todas las edades.
-                    </p>
-                </div>
-                <div className="serviceCard">
                     <EngineeringSharp className="serviceIcon" />
                     <h3>
-                        Herramientas Varias de Software
+                        Herramientas de Innovación
                     </h3>
                     <p>
-                        Desde herramientas de productividad hasta software
-                        de gestión empresarial, desarrollamos soluciones a medida que impulsan el rendimiento
-                        y la productividad de tu empresa.
+                        Desde aplicaciones descentralizadas hasta integraciones de IA, 
+                        desarrollamos soluciones a medida que ofrecen experiencias innovadoras.
                     </p>
                 </div>
             </div>

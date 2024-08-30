@@ -7,6 +7,7 @@ export function Layout({ children }) {
         <>
             <header>
                 <img src={Logo} alt="Logo de Lesdarus Software" width={200} />
+                <h1>Un emprendimiento para emprendedores</h1>
                 <Contact />
             </header>
             <main>

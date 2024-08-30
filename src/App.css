@@ -13,6 +13,7 @@ body {
   background: linear-gradient(to bottom, #012561 15%, #000);
   color: #fff;
   padding: 15px;
+  max-width: 1500px;
 }
 
 header {
@@ -123,4 +124,10 @@ header {
 footer {
   text-align: center;
   margin-top: 50px;
+}
+
+@media (min-width: 1501px) {
+  body {
+    margin: 0 auto;
+  }
 }
