@@ -1,6 +1,6 @@
 import { useEffect } from "react"
 import ScrollReveal from "scrollreveal"
-import { LanguageSharp, PhoneIphoneSharp, DesktopMacSharp, VideogameAssetSharp, EngineeringSharp } from '@mui/icons-material'
+import { LanguageSharp, PhoneIphoneSharp, DesktopMacSharp, EngineeringSharp } from '@mui/icons-material'
 
 export function Services() {
 

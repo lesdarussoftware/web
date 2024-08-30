@@ -14,7 +14,7 @@ export function Contact() {
             <div className="socialIconContainer">
                 <div>
                     <FaInstagram className="socialIcon" />
-                    <p><a href="https://www.instagram.com/lesdarus/" target="_blank">/lesdarus</a></p>
+                    <p><a href="https://www.instagram.com/lesdarus/" target="_blank" rel="noreferrer">/lesdarus</a></p>
                 </div>
                 <div>
                     <CgMail className="socialIcon" />
