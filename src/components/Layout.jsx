@@ -6,8 +6,10 @@ export function Layout({ children }) {
     return (
         <>
             <header>
-                <img src={Logo} alt="Logo de Lesdarus Software" width={200} />
-                <h1>Un emprendimiento para emprendedores</h1>
+                <div className='logo-slogan'>
+                    <img src={Logo} alt="Logo de Lesdarus Software" width={200} />
+                    <em>Un emprendimiento para emprendedores</em>
+                </div>
                 <Contact />
             </header>
             <main>
